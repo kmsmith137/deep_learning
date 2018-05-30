@@ -1,4 +1,6 @@
-### PI deep learning reading group
+## PI deep learning reading group
+
+Meetings are in the Sky Room at 2:00, unless otherwise noted.
 
   - **May 24**: Kendrick Smith, general intro (backpropagation, SGD, CNN’s)
        - [Goodfellow et al](http://deeplearningbook.org), sections 6-9
