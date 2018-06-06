@@ -1,15 +1,12 @@
 
-### Software
+### Documentation
 
-   - TensorFlow
-        - [Install](https://www.tensorflow.org/install/)
-        - [Get started](https://www.tensorflow.org/get_started/)
-        - [Programmer's guide](https://www.tensorflow.org/programmers_guide/)
-        - [Tutorials](https://www.tensorflow.org/tutorials/)
+     - [Install](https://www.tensorflow.org/install/)
+     - [Get started](https://www.tensorflow.org/get_started/)
+     - [Programmer's guide](https://www.tensorflow.org/programmers_guide/)
+     - [Tutorials](https://www.tensorflow.org/tutorials/)
 
-   - [pandas](http://pandas.pydata.org/pandas-docs/stable/)
-
-### tensorflow install notes
+### Install notes
 
    - `export TF_CPP_MIN_LOG_LEVEL=2` to suppress warning "Your CPU supports instructions that this TensorFlow binary was not compiled to use..."
 
