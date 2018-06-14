@@ -12,7 +12,8 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
            - Boltzmann machines, RBMs and DBNs: 20.1-20.3
        - [Hinton’s guide to training an RBM](http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 
-  - **June 14**: Roger Melko, TBD.
+  - **June 14**: Roger Melko, reinforcement learning
+       - [Reinforcement learning](http://www.jmlr.org/papers/volume5/sallans04a/sallans04a.pdf)
 
   - **June 21**: Moritz Munchmeyer, TBD.
 
