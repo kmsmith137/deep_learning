@@ -5,6 +5,12 @@
 
   - [Goodfellow/Bengio/Courville textbook](https://github.com/janishar/mit-deep-learning-book-pdf): best overall reference
 
+### Lists of important deep learning papers:
+
+  - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+  - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 ### References: ImageNet evolution
 
    - [Blog post by Arthur Ouaknine](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-image-classification-5fdbca4a05e2):

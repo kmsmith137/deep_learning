@@ -1,9 +1,5 @@
 ## PI deep learning reading group
 
-Lists of important deep learning papers:
-  - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-  - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-
 Meetings are in the Sky Room at 2:00, unless otherwise noted.
 
   - **May 24**: Kendrick Smith, general intro (backpropagation, SGD, CNN’s)
