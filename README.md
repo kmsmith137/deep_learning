@@ -1,5 +1,9 @@
 ## PI deep learning reading group
 
+Lists of important deep learning papers:
+  - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 Meetings are in the Sky Room at 2:00, unless otherwise noted.
 
   - **May 24**: Kendrick Smith, general intro (backpropagation, SGD, CNN’s)
@@ -13,14 +17,15 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
        - [Hinton’s guide to training an RBM](http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 
   - **June 14**: Roger Melko, reinforcement learning
-       - [Reinforcement learning](http://www.jmlr.org/papers/volume5/sallans04a/sallans04a.pdf)
+       - [Reinforcement learning with Factored States and Actions](http://www.jmlr.org/papers/volume5/sallans04a/sallans04a.pdf)
 
-  - **June 21**: Moritz Munchmeyer, TBD.
+  - **June 21**: Moritz Munchmeyer, generative adversarial networks
+       - [Original paper](https://arxiv.org/abs/1406.2661)
+       - [Unsupervised learning with DCGAN's](https://arxiv.org/abs/1511.06434)
+       - [Improved techniques for training GAN's](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
 
   - **June 28**: Utkarsh Giri, optimization algorithms.
 
   - **July 5**: Anna Golubeva, TBD.
 
   - **July 12**: Elliot Nelson, TBD.
-
-  - **July 26**: in Matter Room this week
