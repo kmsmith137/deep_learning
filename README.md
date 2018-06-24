@@ -20,7 +20,8 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
        - [Unsupervised learning with DCGAN's](https://arxiv.org/abs/1511.06434)
        - [Improved techniques for training GAN's](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
 
-  - **June 28**: Utkarsh Giri, optimization algorithms.
+  - **June 28**: Utkarsh Giri, alphago
+       - [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 
   - **July 5**: Anna Golubeva, TBD.
 

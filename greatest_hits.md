@@ -5,7 +5,7 @@
 
   - [Goodfellow/Bengio/Courville textbook](https://github.com/janishar/mit-deep-learning-book-pdf): best overall reference
 
-### Lists of important deep learning papers:
+### Lists of important deep learning papers
 
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
