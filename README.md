@@ -23,6 +23,13 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
   - **June 28**: Utkarsh Giri, alphago
        - [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 
-  - **July 5**: Anna Golubeva, TBD.
+  - **July 5**: Anna Golubeva
+       - [Shwartz-Ziv & Tishby paper](https://arxiv.org/abs/1703.00810)
+       - [Associated talk](https://youtu.be/bLqJHjXihK8)
+       - [Popsci article by Quanta magazine](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 
-  - **July 12**: Elliot Nelson, TBD.
+  - **July 12**:
+
+  - **July 19**:
+
+  - **July 26**: Elliot Nelson, TBD.
