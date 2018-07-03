@@ -33,3 +33,5 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
   - **July 19**:
 
   - **July 26**: Elliot Nelson, TBD.
+
+  - **August 23**: Masoud Rafiei-Ravandi, TBD.
