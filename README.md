@@ -28,10 +28,16 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
        - [Associated talk](https://youtu.be/bLqJHjXihK8)
        - [Popsci article by Quanta magazine](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 
-  - **July 12**:
+  - **July 12**: Elliot Nelson
 
-  - **July 19**:
+      - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) (includes Neural Turing machine)
+      - [Differentiable Neural Computers](https://www.nature.com/articles/nature20101), a successor / generalization of the NTM
+      - [Blog post on LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-  - **July 26**: Elliot Nelson, TBD.
+  - No meetings July 19, July 26, Aug 2.
+
+  - **August 9**: TBD.
+
+  - **August 16**: TBD.
 
   - **August 23**: Masoud Rafiei-Ravandi, TBD.
