@@ -38,6 +38,8 @@ Meetings are in the Sky Room at 2:00, unless otherwise noted.
 
   - **August 9**: TBD.
 
-  - **August 16**: TBD.
+  - **August 16**: Dustin Lang, TBD.
 
   - **August 23**: Masoud Rafiei-Ravandi, TBD.
+
+  - **August 30**: TBD.
