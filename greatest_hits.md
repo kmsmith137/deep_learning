@@ -84,3 +84,9 @@
 
   - [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf): huge fan of this
     paper, seems like it is onto something really interesting.  (Zhang et al)
+
+### References: GAN's
+
+  - [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)
+
+  - [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720)
